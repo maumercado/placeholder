@@ -1,10 +1,9 @@
-# Self React App CLI
+# Placeholder for personal page
 
-Presentation for SRA CLI
+Temporal placeholder for blog site
 
 Created with MDX-Deck
 
-Check the presentation [here](http:/sra.mau.sh)
+Check the presentation for creating your own Create React App[here](http:/sra.mau.sh)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/af7d972d-9d50-4077-b47c-19c26e5d8344/deploy-status)](https://app.netlify.com/sites/awesome-ptolemy-58e17c/deploys)
-# placeholder
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c0e20aa0-f9e1-4781-accb-562898917b37/deploy-status)](https://app.netlify.com/sites/festive-hamilton-e4ce37/deploys)
