@@ -1,5 +1,5 @@
 {
-  "name": "self_react_app",
+  "name": "maumercado-placeholder",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -23,12 +23,10 @@
     "@fortawesome/free-brands-svg-icons": "^5.9.0",
     "@fortawesome/free-solid-svg-icons": "^5.14.0",
     "@fortawesome/react-fontawesome": "^0.1.4",
-    "chalk": "^2.4.2",
-    "code-surfer": "^2.0.0-alpha.3",
     "file-loader": "^4.0.0",
-    "mdx-deck": "^2.3.2",
+    "mdx-deck": "^4.1.1",
     "prop-types": "^15.7.2",
-    "react": "^16.8.6",
-    "styled-components": "^4.3.1"
+    "react": "^16.13.1",
+    "styled-components": "^5.1.1"
   }
 }

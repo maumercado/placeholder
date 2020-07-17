@@ -12,7 +12,7 @@ import { faBlog } from '@fortawesome/free-solid-svg-icons';
 export default function SocialFollow() {
   return (
       <React.Fragment>
-        <a href={'https://www.twitter.com/maumercado'} style={{ margin: '0 5px', color: 'white' }} className={'twitter social'}>
+        <a href={'https://www.twitter.com/maumercado'} style={{ margin: '0 7px', color: 'white' }} className={'twitter social'}>
           <FontAwesomeIcon icon={faTwitter} size="2x" />
           </a>
         <a href={'https://www.github.com/maumercado'} style={{ margin: '0 7px', color: 'white' }} className={'github social'}>
